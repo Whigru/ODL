@@ -1,1 +1,5 @@
-
+# To create Virtual enviroment and activate it
+    python -m venv kivy_odl
+    source kivy_odl/bin/activate
+# Install kivy  
+    pip install kivy
