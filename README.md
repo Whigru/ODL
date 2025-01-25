@@ -54,12 +54,18 @@ Typ statku powietrznego (ustawienie domyślne[ostatnio wprowadzany] + rozwijana 
 ## Output PL
 - „Wyplucie” tabeli – wzór ODL
     o	   Wszystkie dane wejściowe
+  
 - Podsumowanie tekstowe
     o	Nalot miesięczny całkowity + ilość lotów
+  
     o	Dzień
+  
     o	Noc
+  
     o	PIC
-    o	Instruktor? 
+  
+    o	Instruktor?
+  
 
 ## Authors
 
