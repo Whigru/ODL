@@ -67,6 +67,11 @@ Typ statku powietrznego (ustawienie domyślne[ostatnio wprowadzany] + rozwijana 
     o	Instruktor?
   
 
+## Sketch
+
+![App Screenshot](/SKETCH.png)
+
+
 ## Authors
 
 - [@Whigru](https://github.com/Whigru)
