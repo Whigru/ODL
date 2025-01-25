@@ -7,9 +7,9 @@ The application is designed for UAV pilots and sensor operators.
 
 ## Features
 TBD
-System: Win (.exe) & Android (biblioteka do określenia)
-PYTHON + TBD: PYTHON/JAVA
-GUI: TBD
+    System: Win (.exe) & Android (biblioteka do określenia)
+    PYTHON + TBD: PYTHON/JAVA
+    GUI: TBD
 
 
 ## Roadmap PL
