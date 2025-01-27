@@ -20,17 +20,17 @@ TBD
 - Wprowadzenie aktualnego nalotu (budowanie profilu użytkownika)
 - Wprowadzenie dopuszczeni i DAT WAŻNOŚCI => Przypomnienia
 
-    o	Dopuszczenia
-    o	Badania
-    o	Egzaminy
-    o	Wiedza stosowana
-    o	Klasy pilota
-    o	...?
+    - Dopuszczenia
+    -	Badania
+    -	Egzaminy
+    -	Wiedza stosowana
+    -	Klasy pilota
+    -	...?
    
 
 - Przypomnienia
-    o	 widget / background services
-    o	Po otwarciu aplikacji na ekranie głównym
+    -	 widget / background services
+    -	Po otwarciu aplikacji na ekranie głównym
 
 - Oddzielne okno dla „przeglądu użytkownika” tj. zbliżające się egzaminy, wychodzące dopuszczenia, aktualizowane na podstawie wprowadzanych lotów
 - Zakładka / guzik „WPROWADŹ (DODAJ) LOT” – odsyłacz do funkcji / innego widoku
