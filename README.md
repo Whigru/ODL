@@ -24,7 +24,9 @@ TBD
     o	Badania
     o	Egzaminy
     o	Wiedza stosowana
-    o	…?
+    o	Klasy pilota
+    o	...?
+   
 
 - Przypomnienia
     o	 widget / background services
